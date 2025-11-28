@@ -1,0 +1,23 @@
+{
+  "version": "latest",
+  "description": "UsbTreeView - USB device tree viewer",
+  "homepage": "https://www.uwe-sieber.de/usbtreeview_e.html",
+  "license": "Freeware",
+  "architecture": {
+    "64bit": {
+      "url": "https://www.uwe-sieber.de/files/UsbTreeView_x64.zip",
+      "bin": [
+        "UsbTreeView.exe"
+      ],
+      "shortcuts": [
+        [
+          "UsbTreeView.exe",
+          "UsbTreeView"
+        ]
+      ]
+    }
+  },
+  "persist": [
+    "UsbTreeView.ini"
+  ]
+}
