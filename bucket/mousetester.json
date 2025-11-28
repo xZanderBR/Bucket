@@ -20,7 +20,8 @@
     }
   },
   "checkver": {
-    "github": "https://github.com/valleyofdoom/MouseTester"
+    "github": "https://github.com/valleyofdoom/MouseTester",
+    "regex": "MouseTester_v([\\d.]+)"
   },
   "autoupdate": {
     "architecture": {
