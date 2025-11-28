@@ -9,7 +9,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/spddl/GoInterruptPolicy/releases/download/v1.7.2/GoInterruptPolicy.exe",
-      "hash": "<PUT_SHA256_HERE>",
+      "hash": "8049ea1a7d61830e8d44dab9d3d3120be49c22e07e342876e76e5784331519b9",
       "bin": "GoInterruptPolicy.exe",
       "shortcuts": [
         [
