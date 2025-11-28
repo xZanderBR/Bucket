@@ -8,8 +8,9 @@ Bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 ## Available Tools
 - [USB Device Tree Viewer](https://www.uwe-sieber.de/usbtreeview_e.html)
 - [GoInterruptPolicy](https://github.com/spddl/GoInterruptPolicy)
+- [MouseTester](https://github.com/valleyofdoom/MouseTester)
 
-## How do I install these manifests?
+## How do I install these tools?
 
 After manifests have been committed and pushed, run the following:
 
