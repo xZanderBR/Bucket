@@ -1,0 +1,32 @@
+{
+  "version": "1.7.2",
+  "description": "Mouse polling rate and motion tester based on microe1/MouseTester.",
+  "homepage": "https://github.com/valleyofdoom/MouseTester",
+  "license": {
+    "identifier": "MIT",
+    "url": "https://github.com/valleyofdoom/MouseTester/blob/master/LICENSE"
+  },
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/valleyofdoom/MouseTester/releases/download/MouseTester_v1.7.2/MouseTester.exe",
+      "hash": "9539e9387ab5c9a5a220d29360ee00d82526462b7a3960fce0b43542d53c9782",
+      "bin": "MouseTester.exe",
+      "shortcuts": [
+        [
+          "MouseTester.exe",
+          "MouseTester"
+        ]
+      ]
+    }
+  },
+  "checkver": {
+    "github": "https://github.com/valleyofdoom/MouseTester"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/valleyofdoom/MouseTester/releases/download/MouseTester_v$version/MouseTester.exe"
+      }
+    }
+  }
+}
